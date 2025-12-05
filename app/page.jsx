@@ -59,7 +59,7 @@ export default function Home() {
             letterSpacing: "0.06em",
           }}
         >
-          predictfun.com — this domain is for sale
+          PredictFun.com — this domain is for sale
         </h1>
 
         <p
