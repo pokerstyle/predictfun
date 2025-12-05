@@ -8,9 +8,9 @@ export const metadata = {
 };
 
 export default function RootLayout({ children }) {
-  const title = "PredictFun.com — domain for sale";
+  const title = "PredictFun.com";
   const description =
-    "If you're interested in acquiring this domain, please contact via the form.";
+    "PredictFun";
   const url = "https://predictfun.com/";
 
   return (
