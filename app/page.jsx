@@ -55,7 +55,6 @@ export default function Home() {
           style={{
             fontSize: "2rem",
             marginBottom: "1rem",
-            textTransform: "lowercase",
             letterSpacing: "0.06em",
           }}
         >
